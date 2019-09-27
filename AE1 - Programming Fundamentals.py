@@ -4,4 +4,3 @@ print("Trick or Treat")
 val = input()
 # I need to print "It will be goastly" and end ith there imput
 print("It will be a goastly " + val)
-
