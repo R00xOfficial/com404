@@ -1,0 +1,6 @@
+print("What phrase do you see?")
+var = input()
+print()
+print("Reversing...")
+print()
+print("The phrase is: " + var[::-1])

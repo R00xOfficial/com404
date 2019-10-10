@@ -1,0 +1,6 @@
+print("What type of book is this?")
+book = input()
+print()
+print("I like " + book + " books!")
+print()
+print("Finished reading book.")
